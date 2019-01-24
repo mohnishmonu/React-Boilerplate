@@ -1,5 +1,5 @@
 # React-Boilerplate
-This is a simple React boilerplate which can be used to start React projects, which uses babel and webpack 4. Inspired from https://www.robinwieruch.de/
+This is a simple React boilerplate which can be used to start React projects, which uses babel and webpack 4. Thanks to https://www.robinwieruch.de/
 
 git clone https://github.com/mohnishmonu/React-Boilerplate.git
 
